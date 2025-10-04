@@ -14,6 +14,7 @@ class FloorQueue implements IQueue {
   }
 
   sortQueue() {
+    // implement process.nextTick
     this.queue.sort();
   }
   public next(): number | undefined {

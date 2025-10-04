@@ -1,2 +1,2 @@
 export * from './elevator';
-export * from './types';
+export * from './types.d';
